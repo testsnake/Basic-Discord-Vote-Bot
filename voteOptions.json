@@ -1,0 +1,14 @@
+{
+  "charts": [
+    { "name": "[C47] Option Name 47", "value": "C9547" },
+    { "name": "[C48] Option Name 48", "value": "C9548" },
+    { "name": "[C49] Option Name 49", "value": "C9549" },
+    { "name": "[C50] Option Name 50", "value": "C9550" },
+    { "name": "[C51] Option Name 51", "value": "C9551" },
+    { "name": "[C52] Option Name 52", "value": "C9552" },
+    { "name": "[C53] Option Name 53", "value": "C9553" },
+    { "name": "[C54] Option Name 54", "value": "C9554" },
+    { "name": "[C55] Option Name 55", "value": "C9555" },
+    { "name": "[C56] Option Name 56", "value": "C9556" }
+  ]
+}

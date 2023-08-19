@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_BOT_CLIENT_ID",
+  "guilds": [
+    "GUILD_ID_1",
+    "GUILD_ID_2",
+    "GUILD_ID_3"
+  ]
+}
