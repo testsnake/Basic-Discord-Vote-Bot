@@ -40,7 +40,7 @@ function writeJSONFile(filePath, data) {
 }
 
 // Define the votes file path
-const votesFilePath = '../../votes.json';
+const votesFilePath = './votes.json';
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -125,8 +125,7 @@ module.exports = {
             // Initialize user's votes if not already in the database
             if (!votes[userId]) {
                 votes[userId] = {
-                    M: [],
-                    S: [],
+                    C: []
                 };
             }
 
